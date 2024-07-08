@@ -102,6 +102,14 @@ export default function Home() {
         </div>
         <div>Create, market and sell your products — all from one place.</div>
       </div>
+      <div>
+        <div className="max-w-screen-lg mx-auto">
+          <div className="flex text-sm text-gray-500 items-center py-4 justify-between">
+            <div>tonstore.fun</div>
+            <div>TG: @tonstorefunbot</div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

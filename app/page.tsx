@@ -105,8 +105,14 @@ export default function Home() {
       <div>
         <div className="max-w-screen-lg mx-auto">
           <div className="flex text-sm text-gray-500 items-center py-4 justify-between">
-            <div>tonstore.fun</div>
-            <div>TG: @tonstorefunbot</div>
+            <div className="flex items-center">
+              <img src="/logo.png" className="w-6 mr-2" />
+              <div>tonstore.fun</div>
+            </div>
+            <div className="flex items-center">
+              <img src="/tg-logo.svg" className="w-6 mr-2" />
+              @tonstorefunbot
+            </div>
           </div>
         </div>
       </div>

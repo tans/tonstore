@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Ton Store",
   description:
-    " Ton Store is an e-commerce platform that helps people sell digital products, tokens, and memberships online.We accept payments in TON and USDT tokens.",
+    "Ton Store is an e-commerce platform that helps people sell digital products, tokens, and memberships online.We accept payments in TON and USDT tokens.",
 };
 
 export default function RootLayout({

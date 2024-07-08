@@ -44,8 +44,8 @@ export default function Home() {
       </div>
 
       <div className="py-40 ">
-        <div className="flex max-w-screen-lg mx-auto items-start">
-          <div className="flex-1">
+        <div className="md:flex max-w-screen-lg mx-auto items-start">
+          <div className="flex-1 p-2">
             <img
               className="h-24"
               src="https://cdn.prod.website-files.com/602629d6026724b9e0a021c8/655784262f9e19a2da3b94c0_built-in.svg"
@@ -58,7 +58,7 @@ export default function Home() {
               create and sell from one storefront.
             </div>
           </div>
-          <div className="flex-1">
+          <div className="flex-1 p-2">
             <img
               className="h-24"
               src="https://cdn.prod.website-files.com/602629d6026724b9e0a021c8/655784262f9e19a2da3b94c1_digital.svg"
@@ -69,7 +69,7 @@ export default function Home() {
               hosting, delivery — everything's included.
             </div>
           </div>
-          <div className="flex-1">
+          <div className="flex-1 p-2">
             <img
               className="h-24"
               src="https://cdn.prod.website-files.com/602629d6026724b9e0a021c8/655784262f9e19a2da3b94bf_website-embed.svg"
@@ -80,7 +80,7 @@ export default function Home() {
               website with just a simple copy— paste.
             </div>
           </div>
-          <div className="flex-1">
+          <div className="flex-1 p-2">
             <img
               className="h-24"
               src="https://cdn.prod.website-files.com/602629d6026724b9e0a021c8/655784262f9e19a2da3b94c2_support.svg"
